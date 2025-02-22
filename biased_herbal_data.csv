@@ -1,0 +1,1001 @@
+Age,Gender,Problem/Disease,Allergic To,Diet Type,Medical History,Current Medications,Recommended Plant
+35,Female,Cold,None,Vegan,None,None,Tulsi
+58,Female,Skin Issue,None,Non-Vegetarian,None,None,Sandalwood
+35,Other,Fever,None,Vegetarian,Hypertension,None,Neem
+21,Female,Hypertension,Turmeric,Vegan,Diabetes,None,Amla
+38,Female,Diabetes,None,Vegetarian,Diabetes,None,Amla
+21,Female,Fever,None,Non-Vegetarian,Diabetes,None,Neem
+53,Other,Cold,None,Vegetarian,None,Antibiotics,Tulsi
+74,Female,Cough,Amla,Non-Vegetarian,Hypertension,Painkillers,Tulsi
+35,Male,Cough,None,Vegan,Diabetes,None,Garlic
+25,Male,Cold,None,Vegetarian,None,Antibiotics,Tulsi
+45,Other,None,None,Vegan,None,None,Tulsi
+78,Male,None,None,Non-Vegetarian,Diabetes,None,Turmeric
+59,Female,Diabetes,None,Vegetarian,None,None,Neem
+22,Male,Diabetes,None,Vegan,Hypertension,Antibiotics,Neem
+49,Other,Diabetes,None,Non-Vegetarian,Hypertension,Antibiotics,Amla
+28,Female,Cough,None,Non-Vegetarian,None,None,Tulsi
+46,Male,Fever,None,Vegetarian,Diabetes,None,Neem
+71,Other,Diabetes,None,Non-Vegetarian,Hypertension,None,Amla
+59,Male,None,None,Non-Vegetarian,Diabetes,Painkillers,Tulsi
+53,Female,Cold,None,Non-Vegetarian,None,None,Ginger
+59,Female,Cold,None,Vegetarian,None,None,Tulsi
+31,Other,Cold,Garlic,Non-Vegetarian,None,None,Ginger
+21,Male,Diabetes,None,Vegan,None,Antibiotics,Amla
+43,Female,None,None,Non-Vegetarian,None,None,Tulsi
+21,Male,Diabetes,None,Vegan,Hypertension,None,Amla
+67,Other,Cough,None,Vegan,None,Antibiotics,Garlic
+41,Other,Cold,Sandalwood,Vegan,None,Painkillers,Tulsi
+22,Other,Diabetes,None,Non-Vegetarian,Diabetes,None,Amla
+40,Female,Fever,None,Vegan,None,Antibiotics,Neem
+21,Female,Cold,None,Vegan,Hypertension,Antibiotics,Tulsi
+61,Other,Skin Issue,None,Vegetarian,None,None,Sandalwood
+24,Male,Cold,None,Vegetarian,None,None,Ginger
+39,Female,Cold,None,Non-Vegetarian,None,None,Tulsi
+41,Female,Diabetes,None,Vegan,Diabetes,Painkillers,Amla
+30,Other,Diabetes,None,Non-Vegetarian,Hypertension,None,Neem
+53,Female,Cough,None,Vegetarian,Hypertension,None,Tulsi
+62,Other,Diabetes,None,Vegan,Diabetes,Antibiotics,Neem
+53,Other,Fever,None,Non-Vegetarian,Diabetes,None,Neem
+72,Male,Fever,Neem,Vegetarian,Diabetes,None,Turmeric
+22,Female,Diabetes,None,Non-Vegetarian,None,None,Amla
+34,Other,Hypertension,None,Vegetarian,None,Painkillers,Amla
+29,Other,Hypertension,None,Vegetarian,Diabetes,None,Turmeric
+33,Other,None,Neem,Vegetarian,Diabetes,Painkillers,Amla
+31,Female,Diabetes,None,Vegetarian,Diabetes,None,Amla
+21,Other,Skin Issue,None,Vegan,None,Antibiotics,Aloe Vera
+69,Male,Skin Issue,None,Vegan,Diabetes,Antibiotics,Aloe Vera
+52,Male,Diabetes,None,Non-Vegetarian,None,Painkillers,Amla
+60,Other,None,None,Non-Vegetarian,None,None,Tulsi
+49,Female,Skin Issue,None,Vegetarian,Hypertension,None,Aloe Vera
+39,Other,None,Turmeric,Non-Vegetarian,Hypertension,None,Tulsi
+43,Male,Hypertension,None,Vegetarian,Diabetes,Antibiotics,Amla
+78,Female,Hypertension,None,Vegetarian,None,Antibiotics,Amla
+55,Female,None,None,Vegetarian,None,None,Tulsi
+68,Other,Hypertension,None,Vegetarian,Diabetes,None,Amla
+32,Male,Fever,None,Vegetarian,Hypertension,Antibiotics,Neem
+79,Male,None,None,Vegan,None,None,Neem
+73,Female,Diabetes,None,Vegan,None,None,Amla
+40,Other,Diabetes,Ginger,Vegan,None,None,Amla
+35,Male,Cold,Sandalwood,Vegan,None,Painkillers,Ginger
+35,Male,Diabetes,None,Non-Vegetarian,Hypertension,Painkillers,Amla
+56,Female,Cold,None,Non-Vegetarian,Diabetes,None,Ginger
+69,Male,Cough,None,Vegetarian,None,None,Tulsi
+25,Female,Cough,None,Vegan,Diabetes,None,Tulsi
+65,Female,Cold,None,Non-Vegetarian,None,Painkillers,Tulsi
+35,Female,Skin Issue,None,Vegetarian,Diabetes,None,Sandalwood
+39,Female,None,None,Non-Vegetarian,None,None,Neem
+64,Other,Fever,None,Vegetarian,Diabetes,None,Neem
+74,Other,Hypertension,None,Vegetarian,None,Painkillers,Turmeric
+22,Other,Hypertension,None,Non-Vegetarian,Diabetes,Antibiotics,Amla
+26,Female,Skin Issue,None,Vegetarian,Diabetes,None,Aloe Vera
+28,Other,Diabetes,None,Vegetarian,None,Antibiotics,Amla
+18,Other,Cough,None,Non-Vegetarian,Diabetes,None,Tulsi
+77,Female,Hypertension,None,Vegetarian,None,Antibiotics,Amla
+24,Female,Hypertension,Turmeric,Vegan,None,None,Amla
+76,Other,Cough,None,Non-Vegetarian,Diabetes,Painkillers,Tulsi
+32,Other,Cough,None,Vegan,Diabetes,None,Tulsi
+40,Male,Fever,None,Vegetarian,None,None,Turmeric
+50,Other,Fever,Tulsi,Vegan,Diabetes,Painkillers,Neem
+73,Female,Fever,None,Vegetarian,Hypertension,None,Neem
+78,Female,Cold,None,Vegetarian,None,Painkillers,Tulsi
+48,Female,Fever,None,Vegetarian,None,Painkillers,Neem
+80,Male,Diabetes,None,Vegan,None,None,Amla
+35,Other,Hypertension,Sandalwood,Vegetarian,None,Antibiotics,Amla
+40,Other,Cold,None,Non-Vegetarian,Diabetes,None,Tulsi
+68,Male,None,None,Non-Vegetarian,None,Painkillers,Neem
+32,Other,Hypertension,Sandalwood,Vegetarian,Diabetes,None,Amla
+72,Female,Hypertension,None,Vegetarian,None,Painkillers,Amla
+79,Female,Diabetes,None,Non-Vegetarian,None,None,Neem
+25,Male,Cough,None,Non-Vegetarian,None,Antibiotics,Garlic
+29,Other,Cough,None,Vegan,None,Painkillers,Tulsi
+48,Other,Cold,None,Non-Vegetarian,None,None,Tulsi
+71,Male,Fever,None,Vegetarian,Diabetes,Antibiotics,Neem
+36,Other,Diabetes,None,Vegan,Hypertension,Antibiotics,Amla
+52,Female,Fever,Garlic,Vegetarian,None,None,Neem
+41,Male,Cold,Sandalwood,Vegetarian,Hypertension,Painkillers,Ginger
+49,Female,Hypertension,None,Vegan,Diabetes,None,Turmeric
+54,Male,None,None,Non-Vegetarian,None,None,Tulsi
+30,Female,Diabetes,None,Vegan,None,Antibiotics,Neem
+75,Male,Fever,None,Vegan,Diabetes,Painkillers,Turmeric
+73,Male,Hypertension,None,Vegetarian,Hypertension,None,Amla
+50,Male,None,None,Non-Vegetarian,Diabetes,None,Amla
+41,Female,Cold,Aloe Vera,Non-Vegetarian,Diabetes,None,Ginger
+29,Female,Hypertension,None,Vegetarian,Hypertension,None,Amla
+57,Other,None,None,Vegan,Diabetes,Painkillers,Turmeric
+73,Other,Cough,None,Vegan,None,Painkillers,Tulsi
+65,Male,Fever,Ginger,Vegetarian,Diabetes,None,Neem
+21,Female,Hypertension,Garlic,Vegan,Diabetes,Painkillers,Turmeric
+65,Other,Diabetes,Amla,Vegan,Diabetes,Painkillers,Amla
+20,Female,Cold,None,Vegetarian,Hypertension,Painkillers,Tulsi
+49,Other,Cold,None,Vegetarian,None,None,Tulsi
+41,Female,Fever,None,Vegan,None,Painkillers,Turmeric
+44,Other,Skin Issue,None,Non-Vegetarian,None,Painkillers,Aloe Vera
+60,Female,None,None,Vegetarian,Hypertension,None,Turmeric
+55,Other,Diabetes,None,Vegetarian,Diabetes,Antibiotics,Amla
+62,Female,Hypertension,Sandalwood,Vegetarian,None,None,Amla
+25,Female,Diabetes,Sandalwood,Non-Vegetarian,Hypertension,None,Amla
+70,Female,None,None,Non-Vegetarian,None,Painkillers,Tulsi
+48,Other,Diabetes,None,Vegetarian,Diabetes,None,Amla
+79,Female,Hypertension,None,Non-Vegetarian,None,None,Turmeric
+66,Female,Skin Issue,None,Non-Vegetarian,Hypertension,Antibiotics,Aloe Vera
+23,Male,Cough,None,Non-Vegetarian,None,Painkillers,Tulsi
+61,Male,Hypertension,None,Vegan,Diabetes,None,Turmeric
+62,Female,Cold,None,Vegan,None,None,Tulsi
+42,Male,None,None,Non-Vegetarian,Hypertension,None,Turmeric
+50,Female,Fever,None,Vegan,None,Antibiotics,Neem
+47,Male,Diabetes,None,Non-Vegetarian,Diabetes,Antibiotics,Amla
+73,Female,Cold,None,Vegan,Diabetes,None,Tulsi
+68,Female,Cough,Neem,Vegetarian,Hypertension,None,Tulsi
+67,Male,Hypertension,None,Vegan,Hypertension,Painkillers,Amla
+31,Female,Diabetes,None,Vegetarian,None,None,Amla
+18,Other,Diabetes,None,Vegetarian,None,None,Amla
+35,Other,Hypertension,None,Vegetarian,None,None,Amla
+27,Male,Cold,None,Vegan,Hypertension,None,Ginger
+27,Other,None,None,Non-Vegetarian,None,Painkillers,Amla
+39,Female,Skin Issue,None,Vegan,None,None,Sandalwood
+40,Male,Hypertension,None,Non-Vegetarian,Diabetes,None,Amla
+70,Male,None,None,Non-Vegetarian,Hypertension,None,Tulsi
+27,Other,Cough,None,Non-Vegetarian,None,Painkillers,Tulsi
+59,Other,Diabetes,None,Vegan,None,None,Amla
+39,Male,Fever,None,Vegetarian,Hypertension,None,Neem
+79,Other,Diabetes,None,Vegetarian,Hypertension,None,Amla
+31,Male,None,None,Vegetarian,None,None,Turmeric
+22,Male,Fever,None,Vegan,Hypertension,None,Turmeric
+52,Female,Diabetes,Garlic,Vegetarian,Hypertension,None,Amla
+64,Female,Hypertension,None,Vegetarian,None,Painkillers,Turmeric
+41,Other,Cough,None,Vegan,None,Antibiotics,Garlic
+25,Male,Hypertension,None,Vegan,None,None,Amla
+24,Male,Cold,None,Vegan,Hypertension,None,Tulsi
+33,Other,Skin Issue,None,Non-Vegetarian,None,Antibiotics,Aloe Vera
+44,Female,Hypertension,None,Vegetarian,Diabetes,Painkillers,Amla
+38,Female,Skin Issue,None,Non-Vegetarian,Diabetes,Antibiotics,Sandalwood
+21,Male,Cold,None,Non-Vegetarian,None,Antibiotics,Tulsi
+43,Male,Diabetes,None,Vegan,None,None,Neem
+38,Female,Skin Issue,None,Vegan,None,None,Aloe Vera
+68,Other,Cough,None,Vegan,Diabetes,Painkillers,Garlic
+78,Other,Fever,None,Vegetarian,Diabetes,Antibiotics,Neem
+53,Other,Hypertension,Aloe Vera,Vegetarian,Hypertension,Antibiotics,Amla
+32,Male,Fever,None,Non-Vegetarian,None,None,Turmeric
+60,Male,Fever,None,Vegan,None,None,Neem
+32,Female,Diabetes,None,Vegetarian,Hypertension,None,Neem
+51,Male,Cold,Aloe Vera,Vegan,None,None,Tulsi
+19,Female,Cough,None,Vegetarian,Diabetes,Painkillers,Tulsi
+76,Male,Cough,None,Vegan,Diabetes,None,Garlic
+77,Female,Cough,Ginger,Vegan,Hypertension,None,Tulsi
+44,Male,Skin Issue,None,Vegan,Diabetes,None,Sandalwood
+41,Male,None,None,Vegetarian,None,None,Tulsi
+71,Other,None,Neem,Vegetarian,None,None,Turmeric
+79,Female,Cold,None,Vegetarian,None,Painkillers,Tulsi
+33,Female,Cough,None,Vegetarian,Hypertension,Antibiotics,Garlic
+31,Male,Cold,None,Vegan,Hypertension,None,Tulsi
+65,Other,Cold,None,Vegetarian,Hypertension,None,Tulsi
+72,Other,None,None,Vegetarian,None,Painkillers,Tulsi
+27,Female,Skin Issue,Garlic,Non-Vegetarian,None,None,Aloe Vera
+69,Male,Diabetes,None,Non-Vegetarian,Diabetes,Antibiotics,Neem
+60,Female,Skin Issue,Ginger,Vegan,None,Antibiotics,Aloe Vera
+57,Female,Skin Issue,None,Vegan,None,None,Aloe Vera
+66,Male,None,None,Vegan,Diabetes,None,Neem
+44,Female,Diabetes,None,Vegetarian,None,None,Neem
+49,Male,Hypertension,Ginger,Non-Vegetarian,Diabetes,None,Amla
+45,Male,Diabetes,None,Vegan,None,Painkillers,Amla
+74,Other,Hypertension,None,Vegetarian,Diabetes,None,Amla
+76,Female,Hypertension,None,Vegetarian,Diabetes,None,Turmeric
+50,Male,None,None,Vegetarian,None,None,Tulsi
+45,Female,Cough,None,Non-Vegetarian,None,None,Garlic
+53,Other,Fever,None,Non-Vegetarian,Diabetes,None,Neem
+49,Male,Cough,None,Vegetarian,None,None,Tulsi
+49,Other,Fever,Amla,Non-Vegetarian,Hypertension,Antibiotics,Neem
+65,Other,Cough,Neem,Vegetarian,None,Antibiotics,Tulsi
+26,Female,Cough,None,Vegan,Hypertension,Antibiotics,Tulsi
+66,Other,Diabetes,None,Vegetarian,Hypertension,Painkillers,Amla
+31,Male,Diabetes,None,Vegetarian,Hypertension,None,Amla
+73,Female,None,None,Vegetarian,None,None,Tulsi
+49,Male,Diabetes,None,Non-Vegetarian,Diabetes,None,Amla
+77,Female,Cough,None,Vegan,Diabetes,None,Tulsi
+59,Other,None,None,Non-Vegetarian,None,None,Turmeric
+62,Female,Hypertension,None,Vegetarian,None,Painkillers,Amla
+78,Female,Fever,None,Non-Vegetarian,Diabetes,None,Neem
+48,Female,None,None,Non-Vegetarian,Hypertension,Antibiotics,Amla
+64,Female,Diabetes,Neem,Vegetarian,None,None,Amla
+59,Other,Cough,None,Vegan,Hypertension,None,Garlic
+31,Male,Cough,None,Non-Vegetarian,None,None,Tulsi
+18,Other,Skin Issue,None,Non-Vegetarian,None,Painkillers,Aloe Vera
+51,Other,Skin Issue,None,Vegetarian,Hypertension,None,Sandalwood
+32,Male,Cough,None,Non-Vegetarian,None,None,Garlic
+48,Female,None,None,Vegan,Diabetes,Painkillers,Neem
+52,Female,Fever,None,Non-Vegetarian,None,None,Neem
+27,Male,Hypertension,None,Vegetarian,Hypertension,None,Amla
+63,Male,Cold,None,Vegetarian,Hypertension,Painkillers,Ginger
+27,Male,Skin Issue,None,Vegan,Hypertension,None,Aloe Vera
+38,Female,Hypertension,Aloe Vera,Vegetarian,Hypertension,None,Amla
+65,Female,Fever,Tulsi,Vegetarian,Diabetes,None,Neem
+57,Female,Hypertension,None,Vegetarian,Hypertension,None,Amla
+44,Female,Skin Issue,None,Non-Vegetarian,None,None,Aloe Vera
+33,Other,Diabetes,Neem,Vegan,Hypertension,None,Amla
+32,Male,None,Aloe Vera,Vegan,Diabetes,Antibiotics,Amla
+31,Male,Hypertension,None,Vegetarian,Hypertension,Painkillers,Amla
+71,Female,Diabetes,None,Non-Vegetarian,None,None,Amla
+71,Female,Cold,None,Vegetarian,Diabetes,None,Tulsi
+46,Male,Cold,None,Non-Vegetarian,Diabetes,None,Tulsi
+21,Other,Diabetes,None,Non-Vegetarian,None,None,Amla
+32,Other,Diabetes,None,Vegetarian,Diabetes,None,Amla
+37,Male,Cough,None,Vegetarian,Hypertension,None,Garlic
+63,Other,Hypertension,None,Non-Vegetarian,Hypertension,None,Amla
+53,Other,Hypertension,None,Vegan,None,None,Turmeric
+40,Other,Cold,None,Non-Vegetarian,None,None,Tulsi
+25,Other,Diabetes,None,Vegan,Hypertension,None,Amla
+74,Male,None,None,Vegan,Hypertension,None,Turmeric
+48,Male,None,Garlic,Vegan,Hypertension,None,Tulsi
+79,Other,Diabetes,None,Non-Vegetarian,None,Painkillers,Amla
+24,Male,Cold,None,Vegetarian,Diabetes,None,Ginger
+23,Female,Hypertension,None,Vegetarian,Hypertension,None,Amla
+32,Other,Fever,None,Non-Vegetarian,None,None,Turmeric
+80,Female,Cold,None,Non-Vegetarian,None,None,Ginger
+73,Male,Diabetes,None,Non-Vegetarian,Diabetes,Painkillers,Neem
+24,Other,Cold,None,Vegetarian,Diabetes,None,Tulsi
+48,Male,Hypertension,Neem,Vegetarian,None,None,Amla
+29,Male,Cold,None,Vegetarian,Diabetes,None,Ginger
+31,Male,Cold,None,Vegan,Hypertension,Antibiotics,Tulsi
+53,Male,Cough,None,Vegetarian,None,None,Tulsi
+55,Male,Hypertension,None,Non-Vegetarian,Diabetes,None,Amla
+26,Other,Cold,None,Vegetarian,Diabetes,Painkillers,Tulsi
+34,Other,Hypertension,Sandalwood,Non-Vegetarian,None,None,Turmeric
+28,Male,Hypertension,None,Vegan,Diabetes,None,Turmeric
+75,Female,Diabetes,None,Vegetarian,Diabetes,None,Amla
+61,Other,Diabetes,Neem,Non-Vegetarian,Diabetes,Painkillers,Amla
+72,Female,Skin Issue,None,Non-Vegetarian,Hypertension,None,Aloe Vera
+34,Male,Hypertension,None,Vegan,Diabetes,Antibiotics,Amla
+22,Female,Cold,Sandalwood,Non-Vegetarian,None,None,Ginger
+25,Other,None,None,Vegetarian,None,Antibiotics,Tulsi
+36,Female,Cold,None,Non-Vegetarian,None,Antibiotics,Ginger
+44,Other,Cold,None,Non-Vegetarian,None,None,Tulsi
+67,Male,Diabetes,Tulsi,Vegetarian,None,Painkillers,Amla
+71,Male,Cough,Ginger,Non-Vegetarian,None,None,Tulsi
+70,Other,None,Ginger,Non-Vegetarian,Diabetes,None,Tulsi
+23,Male,Fever,None,Non-Vegetarian,None,Antibiotics,Neem
+55,Female,Fever,None,Non-Vegetarian,Diabetes,Painkillers,Neem
+32,Female,Hypertension,None,Non-Vegetarian,None,None,Amla
+63,Other,Hypertension,None,Non-Vegetarian,None,None,Amla
+27,Other,Skin Issue,None,Vegan,None,None,Sandalwood
+43,Female,Cough,Garlic,Vegetarian,Hypertension,None,Tulsi
+31,Other,Cold,Neem,Vegetarian,None,Antibiotics,Tulsi
+77,Female,Cough,None,Vegan,None,None,Garlic
+73,Other,None,None,Vegan,None,Painkillers,Tulsi
+37,Male,Diabetes,None,Non-Vegetarian,None,None,Amla
+35,Other,Diabetes,None,Non-Vegetarian,Diabetes,None,Amla
+69,Female,Fever,None,Non-Vegetarian,None,Painkillers,Neem
+66,Other,Fever,None,Non-Vegetarian,Hypertension,Antibiotics,Turmeric
+28,Female,None,None,Vegan,None,None,Turmeric
+59,Male,Diabetes,None,Vegan,Diabetes,Antibiotics,Neem
+28,Other,Fever,None,Vegetarian,Diabetes,None,Neem
+29,Male,Cold,None,Vegan,None,None,Tulsi
+21,Other,Fever,None,Non-Vegetarian,Diabetes,Antibiotics,Turmeric
+19,Other,Hypertension,None,Vegetarian,Hypertension,Painkillers,Amla
+33,Male,Skin Issue,None,Vegan,None,Antibiotics,Aloe Vera
+53,Other,Cold,None,Non-Vegetarian,Diabetes,None,Tulsi
+26,Male,Hypertension,None,Non-Vegetarian,Diabetes,Antibiotics,Amla
+57,Female,Cough,None,Vegan,None,Painkillers,Tulsi
+31,Female,None,None,Vegan,Diabetes,Antibiotics,Turmeric
+76,Female,Diabetes,None,Vegan,None,Painkillers,Amla
+61,Male,Cough,None,Vegetarian,None,None,Tulsi
+20,Male,Fever,None,Vegetarian,Hypertension,None,Neem
+78,Other,Diabetes,Aloe Vera,Vegan,None,None,Amla
+41,Other,Cold,None,Vegan,None,None,Tulsi
+44,Male,Diabetes,None,Vegan,None,None,Amla
+69,Male,Hypertension,None,Vegan,Diabetes,Painkillers,Amla
+51,Other,Fever,Amla,Vegan,None,Painkillers,Neem
+29,Female,Hypertension,None,Vegan,Diabetes,Antibiotics,Amla
+22,Female,Skin Issue,None,Vegan,None,None,Aloe Vera
+51,Female,None,None,Non-Vegetarian,Diabetes,Painkillers,Turmeric
+26,Other,Hypertension,None,Non-Vegetarian,None,None,Amla
+25,Male,Hypertension,Sandalwood,Vegan,Diabetes,None,Turmeric
+30,Female,Diabetes,None,Vegetarian,None,None,Amla
+57,Female,Cough,Amla,Vegan,None,Painkillers,Tulsi
+53,Female,Cough,None,Vegetarian,None,Painkillers,Tulsi
+71,Other,Skin Issue,None,Vegan,None,None,Aloe Vera
+30,Female,Cold,None,Vegetarian,Diabetes,Antibiotics,Ginger
+78,Female,Fever,None,Vegan,None,None,Turmeric
+65,Male,Cough,None,Non-Vegetarian,Diabetes,Antibiotics,Tulsi
+73,Other,Diabetes,None,Non-Vegetarian,None,None,Amla
+20,Other,Skin Issue,None,Vegetarian,Diabetes,Painkillers,Sandalwood
+68,Other,None,None,Vegan,None,None,Tulsi
+71,Male,Cold,None,Vegan,None,None,Ginger
+75,Male,Diabetes,None,Non-Vegetarian,None,Painkillers,Neem
+32,Female,Skin Issue,None,Non-Vegetarian,Hypertension,Painkillers,Aloe Vera
+61,Other,Skin Issue,Aloe Vera,Vegetarian,None,None,Aloe Vera
+25,Female,Cough,Tulsi,Vegan,None,Painkillers,Tulsi
+58,Other,Hypertension,None,Vegan,Diabetes,None,Turmeric
+48,Other,Cold,Garlic,Non-Vegetarian,Diabetes,None,Tulsi
+78,Female,None,Tulsi,Vegan,None,None,Neem
+55,Male,Cough,None,Vegan,None,Antibiotics,Tulsi
+46,Other,Skin Issue,None,Non-Vegetarian,Diabetes,Painkillers,Aloe Vera
+41,Female,Cold,None,Vegan,Hypertension,None,Tulsi
+61,Other,Diabetes,None,Vegetarian,None,None,Neem
+78,Other,Fever,Garlic,Non-Vegetarian,None,None,Turmeric
+34,Other,Diabetes,None,Vegetarian,None,Antibiotics,Amla
+48,Female,Cold,None,Vegan,None,Painkillers,Tulsi
+59,Other,Diabetes,None,Non-Vegetarian,None,None,Amla
+61,Male,Cough,Neem,Vegan,None,Antibiotics,Tulsi
+77,Female,Diabetes,None,Vegan,Diabetes,None,Neem
+18,Female,Cold,None,Vegan,Hypertension,Antibiotics,Tulsi
+26,Male,Cough,None,Vegan,Hypertension,None,Tulsi
+49,Female,Cold,None,Non-Vegetarian,Hypertension,Painkillers,Ginger
+33,Other,None,None,Non-Vegetarian,None,None,Turmeric
+75,Female,Cold,None,Non-Vegetarian,None,Painkillers,Tulsi
+36,Male,Fever,Aloe Vera,Vegan,None,None,Neem
+19,Other,Cough,None,Vegetarian,None,None,Garlic
+68,Other,Cough,None,Vegan,Diabetes,None,Tulsi
+40,Female,Fever,None,Vegan,Hypertension,Antibiotics,Turmeric
+79,Female,Cold,None,Non-Vegetarian,Diabetes,None,Tulsi
+33,Male,Hypertension,None,Non-Vegetarian,None,Painkillers,Amla
+22,Female,Fever,None,Vegetarian,None,Antibiotics,Neem
+38,Male,Diabetes,None,Vegetarian,Hypertension,None,Amla
+58,Female,Cold,None,Vegan,None,None,Tulsi
+65,Male,Diabetes,Tulsi,Non-Vegetarian,None,None,Amla
+44,Male,Cold,None,Vegan,None,Painkillers,Tulsi
+78,Female,Diabetes,None,Vegetarian,Diabetes,Antibiotics,Amla
+74,Male,Fever,None,Non-Vegetarian,None,Painkillers,Neem
+71,Female,Cough,None,Vegan,Hypertension,None,Garlic
+26,Female,Cough,None,Vegan,None,Antibiotics,Tulsi
+78,Other,Fever,None,Vegetarian,None,None,Turmeric
+59,Other,Skin Issue,None,Vegan,Diabetes,None,Aloe Vera
+40,Female,Skin Issue,None,Vegan,None,None,Aloe Vera
+67,Other,Diabetes,None,Non-Vegetarian,Diabetes,None,Neem
+55,Male,Cold,None,Vegan,None,Antibiotics,Tulsi
+77,Other,Hypertension,None,Vegan,None,None,Turmeric
+57,Other,Cough,None,Vegetarian,None,None,Tulsi
+65,Male,None,None,Vegetarian,Diabetes,None,Neem
+63,Female,Skin Issue,Garlic,Vegan,Diabetes,None,Aloe Vera
+24,Female,Hypertension,None,Vegan,Diabetes,Antibiotics,Amla
+77,Female,Cough,None,Vegan,None,None,Tulsi
+28,Female,Fever,Garlic,Non-Vegetarian,None,Painkillers,Turmeric
+65,Other,Cold,Amla,Non-Vegetarian,Diabetes,None,Ginger
+60,Male,Fever,None,Non-Vegetarian,None,None,Neem
+72,Male,Cold,None,Non-Vegetarian,Diabetes,None,Tulsi
+21,Female,Cough,None,Vegetarian,None,Painkillers,Garlic
+23,Female,Cough,None,Vegan,None,Antibiotics,Garlic
+49,Male,Hypertension,None,Non-Vegetarian,Diabetes,None,Amla
+36,Male,None,None,Non-Vegetarian,None,Antibiotics,Tulsi
+62,Other,Fever,None,Vegetarian,Diabetes,None,Neem
+62,Male,Diabetes,None,Vegan,Diabetes,None,Amla
+79,Other,Diabetes,None,Non-Vegetarian,None,None,Neem
+48,Female,Cold,Garlic,Vegan,None,Painkillers,Tulsi
+64,Female,Skin Issue,None,Non-Vegetarian,None,None,Aloe Vera
+22,Male,Cough,None,Non-Vegetarian,None,Antibiotics,Tulsi
+19,Other,Cough,None,Vegetarian,Diabetes,None,Tulsi
+78,Male,None,Tulsi,Vegan,None,None,Tulsi
+77,Female,Fever,None,Non-Vegetarian,Diabetes,None,Neem
+61,Other,Skin Issue,Garlic,Non-Vegetarian,None,Painkillers,Aloe Vera
+24,Male,Hypertension,None,Vegetarian,None,None,Amla
+18,Female,None,Ginger,Vegetarian,Hypertension,Painkillers,Turmeric
+39,Male,None,None,Non-Vegetarian,Diabetes,None,Tulsi
+51,Other,Skin Issue,None,Vegetarian,Diabetes,Antibiotics,Aloe Vera
+43,Female,Cough,None,Vegetarian,Diabetes,None,Garlic
+59,Female,Diabetes,None,Vegetarian,Diabetes,Painkillers,Neem
+75,Female,Cold,None,Non-Vegetarian,None,None,Ginger
+53,Female,Cough,Sandalwood,Non-Vegetarian,Hypertension,None,Tulsi
+53,Male,Cough,None,Vegetarian,None,None,Tulsi
+51,Male,Cold,None,Vegan,Diabetes,Antibiotics,Tulsi
+68,Female,Hypertension,None,Vegan,None,Painkillers,Amla
+28,Male,Cough,None,Vegan,Diabetes,None,Tulsi
+70,Other,Diabetes,None,Vegetarian,Hypertension,None,Amla
+67,Female,Skin Issue,None,Vegetarian,None,Antibiotics,Aloe Vera
+69,Other,Cold,None,Non-Vegetarian,None,None,Ginger
+47,Male,Cough,None,Non-Vegetarian,None,None,Tulsi
+73,Male,Cough,None,Vegetarian,Diabetes,None,Tulsi
+61,Other,Fever,None,Vegan,Diabetes,None,Neem
+43,Female,Diabetes,Sandalwood,Vegan,Diabetes,Painkillers,Neem
+70,Male,Cold,Sandalwood,Vegetarian,None,None,Ginger
+29,Female,Cold,None,Vegetarian,Hypertension,None,Tulsi
+78,Male,Skin Issue,Neem,Non-Vegetarian,Diabetes,None,Sandalwood
+43,Male,Hypertension,None,Vegetarian,Diabetes,None,Amla
+58,Female,None,None,Vegetarian,Diabetes,Painkillers,Turmeric
+55,Other,None,None,Vegetarian,None,Antibiotics,Amla
+55,Other,Cold,None,Vegan,Diabetes,None,Tulsi
+30,Male,None,None,Non-Vegetarian,Hypertension,Antibiotics,Neem
+42,Male,Diabetes,None,Vegetarian,Diabetes,Painkillers,Amla
+28,Female,Diabetes,None,Non-Vegetarian,Diabetes,Antibiotics,Amla
+67,Other,None,None,Vegan,None,Painkillers,Turmeric
+72,Other,Cough,None,Non-Vegetarian,None,None,Garlic
+59,Female,Hypertension,None,Vegan,Hypertension,None,Turmeric
+77,Female,Hypertension,None,Vegetarian,Hypertension,None,Turmeric
+43,Male,Skin Issue,None,Vegetarian,None,None,Aloe Vera
+40,Female,Hypertension,None,Vegan,Diabetes,None,Turmeric
+75,Female,Hypertension,None,Non-Vegetarian,None,None,Amla
+74,Other,Cough,None,Vegan,None,None,Tulsi
+21,Other,Cough,None,Vegetarian,Diabetes,Antibiotics,Garlic
+65,Male,Cold,None,Non-Vegetarian,Diabetes,None,Tulsi
+22,Female,Diabetes,None,Vegan,None,Painkillers,Amla
+25,Other,Fever,None,Vegan,None,Painkillers,Turmeric
+27,Other,Cold,None,Vegan,None,None,Tulsi
+66,Male,None,Amla,Vegetarian,Hypertension,None,Turmeric
+61,Female,Diabetes,None,Vegan,Diabetes,Antibiotics,Amla
+66,Male,Cold,None,Vegetarian,Diabetes,Antibiotics,Tulsi
+35,Male,Diabetes,None,Non-Vegetarian,None,None,Amla
+70,Male,Cold,Tulsi,Non-Vegetarian,Hypertension,None,Ginger
+42,Female,Hypertension,None,Vegetarian,Diabetes,None,Amla
+32,Other,Cold,Garlic,Vegan,None,Antibiotics,Ginger
+74,Female,Hypertension,Aloe Vera,Vegetarian,None,None,Turmeric
+62,Female,Cold,None,Vegetarian,Diabetes,None,Tulsi
+39,Other,Fever,Neem,Vegan,Diabetes,Painkillers,Turmeric
+49,Other,Diabetes,Aloe Vera,Vegetarian,Hypertension,None,Amla
+71,Male,Skin Issue,None,Vegetarian,None,None,Aloe Vera
+23,Female,Fever,Turmeric,Non-Vegetarian,None,Antibiotics,Neem
+39,Male,None,None,Vegetarian,None,Painkillers,Tulsi
+64,Female,Diabetes,Neem,Vegetarian,None,None,Amla
+52,Other,Diabetes,None,Non-Vegetarian,Hypertension,Antibiotics,Amla
+33,Male,Diabetes,None,Vegan,None,None,Amla
+48,Female,Hypertension,None,Vegan,None,Painkillers,Turmeric
+70,Female,Hypertension,None,Vegetarian,Diabetes,None,Amla
+65,Female,Skin Issue,None,Vegetarian,None,None,Aloe Vera
+35,Female,Cough,None,Vegetarian,Hypertension,None,Garlic
+49,Other,Hypertension,Ginger,Vegan,Hypertension,None,Amla
+45,Female,Cold,Ginger,Vegan,None,Painkillers,Tulsi
+39,Other,Hypertension,None,Non-Vegetarian,Diabetes,Antibiotics,Amla
+50,Female,Diabetes,Tulsi,Non-Vegetarian,None,None,Amla
+73,Other,Cold,Ginger,Vegan,None,None,Tulsi
+50,Male,Cough,None,Non-Vegetarian,Diabetes,None,Tulsi
+51,Female,None,None,Non-Vegetarian,None,None,Turmeric
+41,Other,Diabetes,None,Vegan,None,Painkillers,Amla
+70,Other,Diabetes,None,Vegan,Hypertension,None,Amla
+33,Other,None,None,Vegan,None,None,Tulsi
+58,Female,Hypertension,Amla,Non-Vegetarian,None,Painkillers,Amla
+37,Male,Diabetes,None,Vegan,None,None,Amla
+18,Female,None,None,Non-Vegetarian,Hypertension,Painkillers,Tulsi
+34,Male,Diabetes,None,Vegetarian,Diabetes,Antibiotics,Amla
+67,Male,Skin Issue,None,Vegan,Diabetes,None,Aloe Vera
+73,Female,Cold,None,Vegetarian,None,None,Ginger
+68,Other,None,None,Vegetarian,Hypertension,None,Tulsi
+27,Female,Fever,None,Non-Vegetarian,Diabetes,Painkillers,Turmeric
+43,Male,None,Turmeric,Vegan,Diabetes,None,Turmeric
+38,Female,Cold,None,Vegan,Hypertension,Painkillers,Tulsi
+50,Female,Diabetes,None,Non-Vegetarian,Diabetes,None,Neem
+60,Male,Diabetes,Sandalwood,Vegan,None,None,Amla
+39,Other,Fever,None,Vegan,None,None,Turmeric
+29,Male,Skin Issue,None,Vegan,None,Painkillers,Sandalwood
+26,Other,Cold,None,Non-Vegetarian,None,Antibiotics,Tulsi
+64,Other,Diabetes,None,Vegan,Diabetes,Antibiotics,Amla
+18,Other,Cold,Tulsi,Non-Vegetarian,Diabetes,None,Ginger
+27,Male,Skin Issue,None,Vegan,Diabetes,None,Aloe Vera
+69,Male,Skin Issue,Neem,Vegan,Diabetes,None,Aloe Vera
+48,Other,Hypertension,None,Vegetarian,Diabetes,Antibiotics,Amla
+59,Male,Cough,None,Non-Vegetarian,Hypertension,Antibiotics,Tulsi
+65,Female,Cold,None,Vegetarian,Hypertension,None,Tulsi
+35,Male,Cough,None,Non-Vegetarian,None,Antibiotics,Garlic
+18,Male,Diabetes,None,Vegetarian,Diabetes,Painkillers,Amla
+28,Female,Fever,None,Vegan,Hypertension,Antibiotics,Neem
+27,Male,Cold,None,Vegan,None,None,Tulsi
+58,Male,Hypertension,Tulsi,Vegetarian,None,None,Amla
+62,Male,None,None,Vegan,None,None,Tulsi
+66,Other,Fever,None,Vegan,None,Antibiotics,Turmeric
+61,Male,Cough,None,Non-Vegetarian,None,None,Garlic
+64,Male,Diabetes,Sandalwood,Vegetarian,Diabetes,None,Amla
+53,Male,Skin Issue,None,Vegetarian,Hypertension,None,Sandalwood
+56,Male,Hypertension,Neem,Vegetarian,None,Antibiotics,Amla
+32,Female,None,None,Non-Vegetarian,Hypertension,Antibiotics,Neem
+51,Female,None,None,Vegetarian,Hypertension,None,Amla
+18,Female,Hypertension,None,Vegetarian,None,None,Amla
+73,Male,Fever,None,Vegetarian,None,Painkillers,Neem
+45,Female,None,None,Non-Vegetarian,Diabetes,None,Turmeric
+40,Male,Skin Issue,None,Non-Vegetarian,None,Painkillers,Aloe Vera
+77,Male,None,None,Vegan,Diabetes,Antibiotics,Tulsi
+46,Male,Fever,Sandalwood,Non-Vegetarian,Hypertension,Antibiotics,Turmeric
+58,Male,Hypertension,Turmeric,Non-Vegetarian,Diabetes,None,Amla
+65,Male,None,None,Non-Vegetarian,None,None,Tulsi
+51,Female,Fever,None,Non-Vegetarian,None,None,Neem
+38,Other,Cold,None,Vegetarian,None,Painkillers,Ginger
+71,Female,Cough,Turmeric,Non-Vegetarian,None,None,Tulsi
+53,Female,Cough,None,Non-Vegetarian,None,Painkillers,Garlic
+18,Other,Diabetes,None,Vegan,None,None,Neem
+25,Male,Cold,Ginger,Non-Vegetarian,None,Painkillers,Tulsi
+20,Other,Cold,None,Non-Vegetarian,None,None,Tulsi
+55,Male,Skin Issue,None,Vegan,None,Antibiotics,Sandalwood
+44,Other,Fever,None,Vegan,Diabetes,Painkillers,Neem
+59,Male,Cough,None,Vegan,Diabetes,None,Tulsi
+54,Other,Diabetes,None,Non-Vegetarian,None,Antibiotics,Amla
+80,Other,None,None,Vegan,Diabetes,None,Tulsi
+41,Other,Diabetes,None,Non-Vegetarian,None,None,Amla
+42,Female,Cold,None,Vegetarian,Diabetes,None,Ginger
+67,Other,Diabetes,None,Vegetarian,None,Antibiotics,Amla
+51,Male,None,None,Vegan,None,None,Tulsi
+36,Female,Cough,None,Vegetarian,Diabetes,None,Tulsi
+65,Other,Skin Issue,None,Vegan,None,None,Aloe Vera
+64,Female,Diabetes,Neem,Vegetarian,Hypertension,Painkillers,Amla
+67,Female,None,None,Vegan,Hypertension,Antibiotics,Tulsi
+63,Male,Cough,Sandalwood,Non-Vegetarian,Hypertension,Antibiotics,Garlic
+29,Female,Fever,None,Non-Vegetarian,Hypertension,Antibiotics,Neem
+71,Female,Cold,None,Vegan,None,None,Tulsi
+73,Other,Diabetes,None,Vegan,Diabetes,Antibiotics,Neem
+72,Female,Diabetes,None,Non-Vegetarian,Diabetes,Antibiotics,Amla
+53,Female,None,None,Vegetarian,Diabetes,Painkillers,Turmeric
+58,Female,Diabetes,None,Non-Vegetarian,None,Painkillers,Amla
+75,Male,Hypertension,None,Non-Vegetarian,None,Antibiotics,Amla
+37,Other,Hypertension,Garlic,Non-Vegetarian,None,Antibiotics,Amla
+60,Male,Skin Issue,None,Vegan,None,Painkillers,Aloe Vera
+75,Male,Fever,None,Vegan,Hypertension,None,Neem
+55,Other,Fever,Turmeric,Vegetarian,None,None,Neem
+65,Female,Hypertension,None,Vegetarian,Hypertension,None,Amla
+47,Other,Diabetes,None,Vegan,Hypertension,None,Amla
+68,Male,Fever,None,Non-Vegetarian,Hypertension,Antibiotics,Neem
+40,Other,Cold,Neem,Vegetarian,None,None,Tulsi
+41,Other,Cough,None,Vegetarian,Diabetes,None,Garlic
+67,Other,Cough,None,Non-Vegetarian,Diabetes,None,Tulsi
+58,Male,Cold,None,Non-Vegetarian,None,None,Tulsi
+46,Female,Cough,None,Vegetarian,None,None,Garlic
+50,Male,Fever,None,Non-Vegetarian,Hypertension,None,Neem
+42,Other,Skin Issue,Turmeric,Vegetarian,None,Painkillers,Sandalwood
+63,Other,None,None,Non-Vegetarian,Diabetes,None,Amla
+37,Other,Cold,None,Vegetarian,None,Antibiotics,Tulsi
+78,Male,Skin Issue,None,Vegan,Diabetes,None,Aloe Vera
+74,Male,Hypertension,None,Non-Vegetarian,Hypertension,None,Turmeric
+77,Female,Diabetes,None,Vegan,Diabetes,None,Neem
+18,Female,Diabetes,None,Non-Vegetarian,None,Antibiotics,Neem
+77,Female,None,None,Vegetarian,Hypertension,None,Turmeric
+75,Male,None,Aloe Vera,Non-Vegetarian,Hypertension,None,Turmeric
+29,Other,Hypertension,None,Vegan,None,None,Amla
+69,Female,None,None,Non-Vegetarian,Hypertension,None,Amla
+23,Other,Diabetes,Aloe Vera,Vegetarian,None,Painkillers,Amla
+75,Female,None,None,Vegetarian,Hypertension,Antibiotics,Turmeric
+76,Female,Diabetes,None,Vegetarian,Diabetes,Painkillers,Amla
+33,Female,Fever,None,Vegetarian,Hypertension,Painkillers,Turmeric
+43,Other,Diabetes,None,Non-Vegetarian,Hypertension,None,Neem
+59,Female,Hypertension,None,Vegetarian,Diabetes,None,Amla
+25,Male,Hypertension,None,Vegetarian,None,None,Turmeric
+68,Male,Cold,None,Non-Vegetarian,None,None,Tulsi
+77,Other,Diabetes,None,Vegetarian,None,None,Amla
+67,Other,Hypertension,None,Vegan,Diabetes,Antibiotics,Turmeric
+22,Male,Cough,Amla,Vegetarian,None,None,Tulsi
+28,Other,Hypertension,Turmeric,Vegetarian,None,None,Amla
+51,Other,Cough,None,Non-Vegetarian,None,None,Tulsi
+63,Female,Skin Issue,None,Vegan,Hypertension,Antibiotics,Aloe Vera
+27,Male,Diabetes,None,Vegan,Diabetes,None,Neem
+41,Male,Hypertension,None,Vegan,Diabetes,None,Amla
+51,Male,Skin Issue,Amla,Non-Vegetarian,Diabetes,Antibiotics,Aloe Vera
+50,Male,Diabetes,None,Vegetarian,None,None,Amla
+45,Male,Cough,None,Non-Vegetarian,None,Painkillers,Tulsi
+71,Other,Fever,None,Vegan,None,None,Neem
+79,Other,Skin Issue,Amla,Non-Vegetarian,None,None,Aloe Vera
+73,Female,Diabetes,None,Vegan,None,None,Amla
+20,Other,Cold,None,Vegetarian,Diabetes,Antibiotics,Tulsi
+38,Female,Diabetes,None,Vegetarian,Hypertension,None,Amla
+45,Other,None,None,Non-Vegetarian,Diabetes,None,Turmeric
+20,Other,Skin Issue,Tulsi,Non-Vegetarian,None,None,Aloe Vera
+61,Other,Cold,Sandalwood,Non-Vegetarian,None,Painkillers,Ginger
+63,Other,Fever,None,Non-Vegetarian,Hypertension,None,Neem
+54,Other,Cough,Sandalwood,Vegetarian,Diabetes,Antibiotics,Garlic
+67,Male,Hypertension,None,Non-Vegetarian,None,None,Amla
+31,Female,Cold,Sandalwood,Vegetarian,None,None,Tulsi
+69,Male,Diabetes,None,Vegetarian,Diabetes,None,Amla
+36,Female,Cough,Ginger,Non-Vegetarian,None,None,Tulsi
+31,Other,Fever,None,Vegetarian,Diabetes,Antibiotics,Neem
+47,Other,Diabetes,None,Vegetarian,None,None,Amla
+65,Female,Diabetes,None,Vegan,None,Painkillers,Amla
+80,Female,Fever,None,Non-Vegetarian,Hypertension,None,Neem
+68,Male,Fever,None,Vegan,Diabetes,None,Neem
+76,Other,Cough,None,Non-Vegetarian,Hypertension,Painkillers,Garlic
+60,Other,Diabetes,Neem,Vegetarian,None,None,Neem
+70,Female,Cough,Ginger,Vegetarian,Hypertension,Painkillers,Tulsi
+38,Other,Diabetes,None,Vegan,Diabetes,Antibiotics,Amla
+69,Female,Cold,None,Vegetarian,Diabetes,Antibiotics,Ginger
+52,Female,Diabetes,None,Vegan,None,Antibiotics,Amla
+75,Female,None,None,Non-Vegetarian,Diabetes,None,Turmeric
+65,Female,Cold,None,Vegan,Diabetes,Painkillers,Tulsi
+39,Male,Cold,None,Non-Vegetarian,None,Painkillers,Tulsi
+56,Male,Skin Issue,None,Non-Vegetarian,Hypertension,Antibiotics,Sandalwood
+70,Male,Diabetes,None,Vegan,None,None,Amla
+26,Other,Diabetes,None,Vegan,Hypertension,Antibiotics,Amla
+44,Other,Diabetes,None,Vegetarian,Hypertension,Painkillers,Neem
+46,Male,Hypertension,None,Vegetarian,Diabetes,Painkillers,Amla
+74,Female,Diabetes,None,Non-Vegetarian,None,None,Neem
+28,Male,Diabetes,None,Non-Vegetarian,Hypertension,None,Amla
+76,Other,Diabetes,None,Non-Vegetarian,None,Antibiotics,Amla
+66,Male,Cough,None,Vegan,Diabetes,None,Tulsi
+77,Other,Cold,None,Non-Vegetarian,None,None,Tulsi
+28,Female,Cough,None,Vegetarian,None,Painkillers,Tulsi
+45,Other,Skin Issue,None,Vegan,Hypertension,None,Sandalwood
+49,Female,Hypertension,None,Non-Vegetarian,Diabetes,None,Amla
+35,Other,None,None,Vegan,Hypertension,None,Neem
+27,Male,Diabetes,None,Vegetarian,None,None,Neem
+32,Female,Diabetes,None,Vegan,None,None,Neem
+39,Other,Hypertension,None,Non-Vegetarian,Diabetes,None,Amla
+33,Male,Fever,Sandalwood,Vegan,None,None,Turmeric
+34,Female,Cold,None,Non-Vegetarian,None,None,Tulsi
+22,Other,Cold,None,Non-Vegetarian,None,Antibiotics,Ginger
+39,Other,Diabetes,Turmeric,Non-Vegetarian,Diabetes,None,Amla
+18,Male,Cough,None,Non-Vegetarian,Diabetes,None,Tulsi
+80,Other,Cold,None,Non-Vegetarian,None,Painkillers,Tulsi
+59,Male,Cough,None,Vegan,None,None,Tulsi
+28,Female,Cough,None,Non-Vegetarian,None,Painkillers,Tulsi
+62,Male,Diabetes,None,Non-Vegetarian,Diabetes,Antibiotics,Neem
+61,Female,Cough,Tulsi,Vegan,None,None,Tulsi
+33,Male,Cough,None,Vegan,None,Painkillers,Tulsi
+50,Male,Skin Issue,None,Vegetarian,Diabetes,Antibiotics,Sandalwood
+39,Female,Hypertension,None,Vegetarian,Hypertension,Painkillers,Amla
+31,Other,Diabetes,Aloe Vera,Non-Vegetarian,Hypertension,Painkillers,Amla
+62,Male,Skin Issue,None,Vegan,None,None,Sandalwood
+35,Male,Skin Issue,None,Non-Vegetarian,Hypertension,None,Aloe Vera
+68,Other,Skin Issue,Ginger,Vegan,Hypertension,None,Aloe Vera
+20,Male,Hypertension,None,Vegetarian,Diabetes,None,Turmeric
+30,Other,Hypertension,None,Vegetarian,None,None,Amla
+61,Female,Diabetes,None,Vegetarian,Diabetes,None,Amla
+71,Female,Skin Issue,None,Vegetarian,None,Painkillers,Aloe Vera
+60,Female,Cough,None,Non-Vegetarian,Hypertension,None,Garlic
+55,Other,Hypertension,None,Vegetarian,Hypertension,None,Turmeric
+29,Female,Cough,None,Vegan,Hypertension,None,Tulsi
+79,Female,Cough,None,Vegan,None,Painkillers,Tulsi
+20,Other,Skin Issue,None,Non-Vegetarian,None,Painkillers,Aloe Vera
+77,Other,Skin Issue,None,Vegan,None,Antibiotics,Sandalwood
+77,Male,None,None,Vegetarian,None,Antibiotics,Turmeric
+28,Female,Skin Issue,None,Vegan,Hypertension,None,Sandalwood
+46,Male,Diabetes,None,Non-Vegetarian,Diabetes,None,Amla
+73,Other,Cough,None,Non-Vegetarian,Diabetes,Painkillers,Tulsi
+57,Other,Hypertension,None,Non-Vegetarian,Hypertension,None,Amla
+18,Male,Diabetes,None,Vegan,Diabetes,None,Amla
+70,Female,Hypertension,None,Non-Vegetarian,None,Antibiotics,Amla
+64,Female,Cold,None,Non-Vegetarian,Diabetes,None,Tulsi
+37,Male,Cold,None,Non-Vegetarian,None,None,Tulsi
+34,Other,Hypertension,Amla,Vegetarian,Diabetes,Painkillers,Amla
+41,Male,None,None,Non-Vegetarian,None,None,Tulsi
+42,Female,Cold,None,Non-Vegetarian,Diabetes,Antibiotics,Tulsi
+80,Male,Cough,None,Vegan,Hypertension,Antibiotics,Tulsi
+50,Male,Skin Issue,None,Vegetarian,None,None,Aloe Vera
+52,Other,Hypertension,None,Vegan,Diabetes,None,Amla
+40,Other,Diabetes,None,Vegan,None,None,Neem
+58,Female,Fever,None,Vegan,None,None,Neem
+66,Male,None,None,Non-Vegetarian,None,Antibiotics,Tulsi
+80,Female,Diabetes,None,Vegan,None,Antibiotics,Neem
+26,Female,Diabetes,None,Vegetarian,Diabetes,Painkillers,Amla
+79,Female,Diabetes,None,Vegan,None,None,Amla
+76,Female,Diabetes,Garlic,Vegan,None,None,Amla
+34,Other,Hypertension,Turmeric,Non-Vegetarian,None,None,Amla
+47,Female,Hypertension,None,Non-Vegetarian,Hypertension,Antibiotics,Turmeric
+63,Other,Fever,None,Non-Vegetarian,None,None,Neem
+58,Other,Diabetes,Amla,Vegan,None,None,Amla
+23,Female,Skin Issue,None,Vegan,Diabetes,Painkillers,Sandalwood
+35,Male,None,None,Non-Vegetarian,Hypertension,None,Neem
+49,Male,Skin Issue,Aloe Vera,Vegan,Hypertension,None,Sandalwood
+61,Female,Diabetes,None,Vegan,Diabetes,Painkillers,Amla
+64,Female,Cough,None,Vegan,Hypertension,None,Tulsi
+45,Female,Diabetes,None,Non-Vegetarian,None,None,Amla
+50,Male,Cough,Tulsi,Vegetarian,None,None,Tulsi
+48,Other,Skin Issue,Sandalwood,Vegan,Hypertension,None,Aloe Vera
+48,Male,Fever,None,Vegan,None,None,Neem
+65,Male,Cough,None,Vegetarian,Hypertension,None,Tulsi
+58,Male,None,None,Vegetarian,None,None,Tulsi
+43,Other,Diabetes,Sandalwood,Vegetarian,None,Painkillers,Amla
+51,Other,Skin Issue,None,Vegan,None,None,Aloe Vera
+49,Female,Cold,None,Vegetarian,Hypertension,Antibiotics,Tulsi
+71,Other,Cough,None,Vegan,None,None,Tulsi
+52,Male,Hypertension,None,Vegetarian,None,Painkillers,Amla
+41,Other,Cough,None,Non-Vegetarian,None,Painkillers,Tulsi
+40,Male,Hypertension,None,Vegan,Diabetes,None,Turmeric
+59,Male,Hypertension,None,Vegan,None,None,Turmeric
+36,Other,Cold,None,Vegetarian,Hypertension,None,Tulsi
+54,Female,Diabetes,None,Vegetarian,Diabetes,None,Neem
+33,Male,Diabetes,None,Vegan,Diabetes,None,Amla
+46,Other,Skin Issue,None,Vegan,Hypertension,Painkillers,Aloe Vera
+40,Other,Diabetes,None,Non-Vegetarian,None,Antibiotics,Neem
+38,Other,None,None,Non-Vegetarian,Diabetes,None,Amla
+76,Female,None,None,Vegetarian,Hypertension,Painkillers,Turmeric
+21,Other,Hypertension,Sandalwood,Vegan,Diabetes,Painkillers,Turmeric
+27,Male,None,Turmeric,Non-Vegetarian,None,None,Amla
+29,Other,Skin Issue,None,Non-Vegetarian,Hypertension,Painkillers,Sandalwood
+18,Other,Fever,None,Vegan,Diabetes,Painkillers,Neem
+23,Male,Cough,None,Vegetarian,None,Antibiotics,Garlic
+60,Other,Fever,None,Non-Vegetarian,None,Antibiotics,Neem
+18,Other,Diabetes,Garlic,Non-Vegetarian,Hypertension,Painkillers,Amla
+75,Male,Hypertension,None,Non-Vegetarian,None,Antibiotics,Amla
+26,Male,Cold,None,Vegan,None,Painkillers,Tulsi
+29,Female,Cold,None,Vegetarian,None,Antibiotics,Tulsi
+67,Other,Diabetes,Ginger,Non-Vegetarian,None,None,Amla
+51,Male,Fever,None,Vegan,None,Painkillers,Turmeric
+48,Male,Cold,None,Vegan,None,Painkillers,Tulsi
+33,Other,Hypertension,None,Vegetarian,Diabetes,None,Amla
+60,Other,Cold,None,Non-Vegetarian,None,None,Ginger
+59,Female,Cold,None,Non-Vegetarian,None,Antibiotics,Tulsi
+47,Other,Hypertension,None,Vegetarian,None,None,Amla
+40,Other,Cold,Turmeric,Vegetarian,None,None,Tulsi
+21,Other,Hypertension,None,Non-Vegetarian,Hypertension,None,Amla
+63,Female,Skin Issue,None,Non-Vegetarian,None,Antibiotics,Aloe Vera
+70,Female,Cold,None,Non-Vegetarian,Hypertension,None,Ginger
+70,Male,Cough,None,Vegan,Diabetes,Antibiotics,Tulsi
+38,Female,Fever,None,Vegan,None,None,Neem
+77,Male,Diabetes,None,Vegan,Diabetes,Painkillers,Amla
+32,Other,Skin Issue,None,Vegan,None,Painkillers,Aloe Vera
+28,Male,None,None,Vegetarian,Hypertension,Antibiotics,Tulsi
+24,Female,Hypertension,None,Vegetarian,Diabetes,Painkillers,Amla
+19,Female,Cold,None,Non-Vegetarian,Diabetes,None,Ginger
+73,Other,Fever,None,Non-Vegetarian,None,Painkillers,Turmeric
+51,Male,Fever,None,Vegan,Diabetes,Painkillers,Neem
+54,Other,Skin Issue,None,Non-Vegetarian,None,Antibiotics,Aloe Vera
+77,Other,Skin Issue,Garlic,Non-Vegetarian,Diabetes,Painkillers,Aloe Vera
+19,Female,Fever,None,Non-Vegetarian,None,Antibiotics,Turmeric
+75,Other,Fever,None,Vegan,Diabetes,None,Neem
+60,Male,Hypertension,None,Vegetarian,None,Painkillers,Amla
+66,Other,Diabetes,None,Vegan,Diabetes,None,Neem
+62,Male,Skin Issue,None,Non-Vegetarian,Diabetes,None,Aloe Vera
+19,Other,Skin Issue,None,Vegetarian,Diabetes,None,Aloe Vera
+33,Female,Cold,None,Vegan,None,Painkillers,Tulsi
+60,Female,Skin Issue,None,Vegan,None,None,Aloe Vera
+80,Other,Diabetes,None,Vegan,Diabetes,None,Amla
+51,Female,Cough,None,Vegan,Hypertension,None,Tulsi
+26,Other,None,None,Non-Vegetarian,None,None,Turmeric
+27,Female,None,None,Vegan,Hypertension,None,Tulsi
+50,Other,Fever,None,Vegetarian,None,Antibiotics,Neem
+36,Other,Diabetes,None,Vegan,Diabetes,Antibiotics,Neem
+25,Female,Hypertension,None,Non-Vegetarian,Diabetes,None,Amla
+28,Female,Hypertension,None,Vegetarian,None,None,Amla
+57,Female,Hypertension,None,Vegetarian,Diabetes,Painkillers,Amla
+62,Other,Diabetes,Turmeric,Non-Vegetarian,None,None,Neem
+50,Other,Diabetes,Aloe Vera,Vegan,None,Painkillers,Amla
+63,Female,Diabetes,None,Non-Vegetarian,Diabetes,Painkillers,Amla
+60,Male,Cold,None,Non-Vegetarian,None,Antibiotics,Ginger
+80,Male,Diabetes,Ginger,Vegetarian,Hypertension,None,Amla
+29,Female,None,None,Vegan,None,None,Tulsi
+49,Female,Cough,None,Vegetarian,Diabetes,Antibiotics,Tulsi
+76,Other,Diabetes,None,Vegan,Hypertension,Antibiotics,Amla
+68,Male,Skin Issue,None,Non-Vegetarian,None,Antibiotics,Aloe Vera
+77,Female,Diabetes,None,Non-Vegetarian,None,None,Neem
+63,Female,Fever,None,Vegetarian,Diabetes,Painkillers,Turmeric
+77,Female,Hypertension,Aloe Vera,Non-Vegetarian,None,None,Amla
+33,Female,Fever,None,Non-Vegetarian,Diabetes,Antibiotics,Neem
+46,Other,Cough,None,Non-Vegetarian,None,Antibiotics,Tulsi
+62,Female,Fever,Tulsi,Non-Vegetarian,None,Painkillers,Neem
+37,Other,None,None,Non-Vegetarian,None,Antibiotics,Tulsi
+70,Other,Skin Issue,None,Vegan,Diabetes,None,Sandalwood
+20,Other,Hypertension,None,Vegetarian,Diabetes,None,Amla
+60,Female,Skin Issue,None,Non-Vegetarian,None,None,Aloe Vera
+75,Female,Cough,None,Vegan,Hypertension,None,Garlic
+42,Male,Diabetes,None,Vegan,None,None,Amla
+40,Male,Cold,None,Vegetarian,None,Painkillers,Tulsi
+77,Female,Cold,None,Non-Vegetarian,Hypertension,None,Ginger
+50,Female,Cold,None,Vegan,Diabetes,None,Tulsi
+47,Female,Cough,None,Non-Vegetarian,Diabetes,None,Tulsi
+19,Female,Hypertension,None,Vegetarian,None,Painkillers,Turmeric
+46,Female,Fever,Turmeric,Non-Vegetarian,None,Antibiotics,Turmeric
+44,Female,Cold,None,Vegetarian,None,Antibiotics,Tulsi
+39,Other,Hypertension,None,Non-Vegetarian,Diabetes,None,Amla
+59,Other,Diabetes,None,Vegetarian,Diabetes,Antibiotics,Amla
+34,Female,Cold,Aloe Vera,Non-Vegetarian,Diabetes,Antibiotics,Tulsi
+40,Other,Fever,Amla,Vegetarian,Diabetes,None,Neem
+80,Male,Hypertension,None,Vegan,None,Painkillers,Amla
+24,Other,Cold,Turmeric,Vegan,None,None,Ginger
+77,Female,None,Tulsi,Non-Vegetarian,Diabetes,Antibiotics,Turmeric
+62,Female,None,None,Vegetarian,Diabetes,None,Neem
+32,Other,Skin Issue,None,Vegan,None,Antibiotics,Aloe Vera
+40,Other,Cough,None,Vegetarian,Hypertension,Antibiotics,Tulsi
+37,Other,Cough,None,Non-Vegetarian,None,Antibiotics,Tulsi
+25,Female,Skin Issue,None,Vegetarian,None,None,Sandalwood
+77,Female,None,None,Vegetarian,None,Painkillers,Tulsi
+79,Other,Hypertension,None,Non-Vegetarian,Diabetes,None,Amla
+74,Female,Hypertension,None,Vegan,Diabetes,Antibiotics,Turmeric
+45,Female,Cold,None,Non-Vegetarian,Diabetes,Antibiotics,Tulsi
+25,Female,Cold,Aloe Vera,Vegetarian,Hypertension,None,Ginger
+57,Other,Cough,None,Non-Vegetarian,Diabetes,None,Garlic
+61,Other,Diabetes,None,Non-Vegetarian,None,Antibiotics,Neem
+19,Male,Cold,None,Vegetarian,Hypertension,None,Tulsi
+58,Male,Cough,None,Vegan,Diabetes,Antibiotics,Tulsi
+52,Other,Diabetes,Tulsi,Non-Vegetarian,None,Antibiotics,Neem
+73,Other,Cough,None,Vegan,None,Painkillers,Garlic
+59,Other,Diabetes,None,Non-Vegetarian,None,None,Amla
+46,Male,Hypertension,None,Vegan,Hypertension,Painkillers,Amla
+60,Female,Cold,None,Vegan,Hypertension,None,Tulsi
+45,Male,Hypertension,None,Vegan,Hypertension,Painkillers,Amla
+56,Female,Diabetes,None,Vegetarian,Diabetes,None,Amla
+43,Female,Skin Issue,None,Vegan,None,None,Aloe Vera
+44,Other,Hypertension,Sandalwood,Non-Vegetarian,Diabetes,Painkillers,Amla
+65,Other,Skin Issue,None,Vegetarian,None,Painkillers,Sandalwood
+21,Female,Cough,None,Non-Vegetarian,None,Antibiotics,Garlic
+39,Male,Diabetes,None,Vegetarian,None,Antibiotics,Amla
+26,Other,Hypertension,None,Vegan,Hypertension,None,Turmeric
+61,Male,None,None,Non-Vegetarian,Diabetes,None,Tulsi
+52,Female,Skin Issue,None,Vegetarian,None,Antibiotics,Aloe Vera
+39,Male,Diabetes,Garlic,Vegetarian,Diabetes,None,Neem
+30,Other,Hypertension,None,Non-Vegetarian,None,None,Turmeric
+47,Male,Diabetes,None,Vegan,Diabetes,Painkillers,Amla
+29,Male,Diabetes,Sandalwood,Vegetarian,None,None,Neem
+47,Male,Diabetes,None,Non-Vegetarian,None,None,Amla
+37,Female,Diabetes,None,Non-Vegetarian,None,None,Amla
+66,Other,Cold,None,Non-Vegetarian,Diabetes,None,Tulsi
+61,Male,Cold,None,Vegetarian,Hypertension,None,Tulsi
+52,Other,Cough,None,Non-Vegetarian,Diabetes,None,Tulsi
+55,Male,None,None,Vegan,Diabetes,Antibiotics,Tulsi
+44,Male,Fever,Tulsi,Vegan,None,Painkillers,Neem
+74,Male,Hypertension,None,Non-Vegetarian,Diabetes,Painkillers,Amla
+58,Male,Cough,Amla,Vegan,Hypertension,None,Tulsi
+30,Female,Diabetes,None,Vegetarian,Diabetes,Antibiotics,Amla
+38,Female,Cold,Neem,Vegetarian,Diabetes,None,Tulsi
+25,Male,Cough,None,Non-Vegetarian,Diabetes,Painkillers,Tulsi
+58,Male,Cough,None,Non-Vegetarian,Hypertension,None,Tulsi
+62,Male,Skin Issue,Garlic,Non-Vegetarian,Diabetes,None,Sandalwood
+66,Male,Cough,None,Vegan,Hypertension,None,Garlic
+53,Female,Cold,None,Vegetarian,Diabetes,Painkillers,Ginger
+58,Other,None,None,Vegan,Hypertension,None,Neem
+35,Male,Fever,None,Non-Vegetarian,None,None,Neem
+56,Female,None,Ginger,Vegetarian,Diabetes,None,Turmeric
+43,Other,Diabetes,None,Vegetarian,Diabetes,Antibiotics,Neem
+20,Female,Diabetes,None,Non-Vegetarian,Diabetes,None,Neem
+39,Other,Fever,None,Vegetarian,Hypertension,Painkillers,Neem
+55,Female,Skin Issue,None,Vegan,Diabetes,None,Aloe Vera
+67,Male,Cold,None,Non-Vegetarian,Diabetes,Painkillers,Ginger
+43,Male,Skin Issue,None,Vegetarian,None,None,Aloe Vera
+57,Female,Cold,None,Vegetarian,Diabetes,None,Ginger
+55,Male,Cough,Ginger,Vegan,None,Painkillers,Tulsi
+48,Male,Diabetes,None,Vegetarian,Hypertension,None,Amla
+33,Female,Cough,None,Vegetarian,None,None,Tulsi
+34,Male,Skin Issue,None,Non-Vegetarian,None,Antibiotics,Sandalwood
+67,Male,Hypertension,None,Non-Vegetarian,Diabetes,None,Amla
+36,Other,Cough,None,Vegan,Diabetes,None,Tulsi
+71,Other,Cold,None,Vegetarian,Hypertension,None,Ginger
+21,Male,Skin Issue,None,Vegan,None,Antibiotics,Aloe Vera
+63,Male,Diabetes,None,Non-Vegetarian,None,None,Amla
+22,Female,Cold,None,Vegan,Diabetes,None,Tulsi
+60,Other,None,None,Vegan,Diabetes,None,Amla
+73,Other,None,None,Vegetarian,Hypertension,Antibiotics,Neem
+32,Male,Diabetes,None,Vegan,Hypertension,None,Amla
+32,Other,Diabetes,None,Vegan,Diabetes,Antibiotics,Amla
+21,Male,Cough,Neem,Vegetarian,None,None,Garlic
+27,Female,Diabetes,None,Vegetarian,Diabetes,None,Amla
+63,Female,Hypertension,None,Vegan,None,Painkillers,Turmeric
+54,Other,None,None,Non-Vegetarian,None,None,Turmeric
+71,Male,Diabetes,None,Non-Vegetarian,Hypertension,None,Amla
+18,Male,Diabetes,None,Vegetarian,Hypertension,Painkillers,Amla
+59,Male,None,None,Vegan,Diabetes,Painkillers,Neem
+39,Other,Hypertension,None,Non-Vegetarian,None,None,Amla
+36,Female,Diabetes,Sandalwood,Non-Vegetarian,None,None,Amla
+32,Female,Diabetes,None,Non-Vegetarian,None,None,Amla
+34,Other,Cold,None,Vegetarian,None,None,Tulsi
+55,Female,Hypertension,None,Non-Vegetarian,None,None,Amla
+26,Female,Skin Issue,None,Non-Vegetarian,Diabetes,Painkillers,Aloe Vera
+77,Other,Hypertension,None,Non-Vegetarian,None,None,Amla
+18,Other,Skin Issue,None,Vegetarian,Diabetes,None,Aloe Vera
+63,Male,Diabetes,None,Non-Vegetarian,Diabetes,None,Amla
+28,Male,Cold,None,Vegetarian,Diabetes,None,Tulsi
+50,Other,Hypertension,None,Non-Vegetarian,Diabetes,Antibiotics,Amla
+80,Female,Skin Issue,Aloe Vera,Non-Vegetarian,None,None,Aloe Vera
+41,Female,Diabetes,None,Non-Vegetarian,None,None,Amla
+27,Female,None,None,Vegetarian,Diabetes,None,Tulsi
+63,Male,None,Garlic,Vegan,None,Painkillers,Neem
+71,Female,Cold,None,Non-Vegetarian,Hypertension,Painkillers,Ginger
+67,Other,Diabetes,None,Non-Vegetarian,None,None,Amla
+37,Female,None,None,Non-Vegetarian,None,Painkillers,Tulsi
+64,Female,Fever,None,Non-Vegetarian,Diabetes,None,Neem
+74,Male,Cold,None,Vegan,None,Antibiotics,Tulsi
+54,Male,Cough,None,Vegan,None,Antibiotics,Garlic
+67,Male,Diabetes,None,Non-Vegetarian,Hypertension,None,Neem
+26,Other,Diabetes,None,Vegan,None,None,Amla
+20,Other,Cold,None,Vegetarian,Hypertension,None,Tulsi
+36,Female,Diabetes,None,Vegan,None,None,Amla
+41,Male,Cough,None,Vegetarian,None,None,Garlic
+55,Female,Cough,None,Non-Vegetarian,Diabetes,Painkillers,Tulsi
+67,Female,Skin Issue,Amla,Vegetarian,Diabetes,Antibiotics,Aloe Vera
+35,Other,Skin Issue,None,Vegan,Diabetes,None,Aloe Vera
+28,Female,Skin Issue,None,Vegetarian,Diabetes,None,Aloe Vera
+33,Other,Skin Issue,Amla,Vegan,None,None,Aloe Vera
+33,Female,Fever,None,Non-Vegetarian,None,None,Neem
+25,Other,Cold,None,Non-Vegetarian,None,None,Tulsi
+52,Other,Cold,None,Non-Vegetarian,Diabetes,Antibiotics,Tulsi
+31,Other,Diabetes,None,Non-Vegetarian,Diabetes,None,Amla
+75,Other,Fever,None,Vegan,Diabetes,None,Turmeric
+54,Male,Diabetes,None,Non-Vegetarian,None,None,Neem
+24,Other,Diabetes,None,Non-Vegetarian,Diabetes,None,Amla
+68,Male,Cold,Sandalwood,Vegan,Diabetes,None,Tulsi
+60,Other,Fever,None,Vegan,None,Painkillers,Turmeric
+39,Female,Hypertension,None,Vegan,None,None,Amla
+69,Other,None,None,Non-Vegetarian,Diabetes,Painkillers,Tulsi
+56,Female,Cold,None,Non-Vegetarian,Hypertension,None,Ginger
+31,Male,Fever,Ginger,Non-Vegetarian,Diabetes,Painkillers,Neem
+46,Male,Cold,None,Vegan,Diabetes,None,Ginger
+52,Female,Cold,None,Vegan,Diabetes,Painkillers,Tulsi
+79,Other,None,None,Vegetarian,Diabetes,Painkillers,Tulsi
+79,Female,None,Tulsi,Vegan,None,None,Tulsi
+72,Male,Hypertension,None,Vegan,Hypertension,None,Turmeric
+71,Male,None,None,Non-Vegetarian,Hypertension,Painkillers,Tulsi
+60,Female,None,None,Non-Vegetarian,None,Painkillers,Turmeric
+41,Male,Diabetes,None,Non-Vegetarian,None,None,Neem
+50,Male,None,None,Vegetarian,Diabetes,Antibiotics,Amla
+56,Female,None,None,Vegan,Hypertension,None,Tulsi
+47,Male,Cough,None,Vegetarian,None,Antibiotics,Tulsi
+46,Female,Diabetes,Aloe Vera,Vegan,Diabetes,None,Amla
+40,Other,None,None,Vegan,Diabetes,None,Amla
+39,Other,Cough,None,Vegetarian,Hypertension,None,Tulsi
+59,Male,None,Aloe Vera,Non-Vegetarian,Hypertension,None,Tulsi
+20,Other,Diabetes,Ginger,Non-Vegetarian,None,Antibiotics,Amla
+43,Other,Hypertension,Tulsi,Non-Vegetarian,Hypertension,None,Amla
+51,Male,Cold,None,Non-Vegetarian,Hypertension,Painkillers,Tulsi
+72,Male,Cold,None,Vegetarian,Diabetes,Antibiotics,Ginger
+57,Female,None,Sandalwood,Non-Vegetarian,Diabetes,None,Neem
+69,Other,Skin Issue,None,Vegan,None,Antibiotics,Aloe Vera
+48,Other,Cold,None,Non-Vegetarian,None,None,Ginger
+71,Other,Skin Issue,None,Vegetarian,Hypertension,Antibiotics,Sandalwood
+45,Male,Cold,None,Vegetarian,Diabetes,None,Ginger
+80,Other,None,None,Vegan,Diabetes,None,Tulsi
+31,Other,Diabetes,None,Non-Vegetarian,Diabetes,Antibiotics,Neem
+62,Female,None,None,Vegan,Hypertension,None,Tulsi
+62,Male,None,None,Vegetarian,Hypertension,None,Tulsi
+28,Other,Hypertension,None,Vegetarian,Hypertension,Antibiotics,Amla
+47,Male,Diabetes,None,Non-Vegetarian,None,None,Amla
+31,Other,None,None,Non-Vegetarian,Hypertension,None,Tulsi
+58,Female,None,Neem,Vegan,Hypertension,None,Amla
+78,Female,Skin Issue,Aloe Vera,Non-Vegetarian,None,None,Aloe Vera
+33,Male,Diabetes,Tulsi,Non-Vegetarian,None,None,Neem
+26,Male,Cold,Neem,Vegan,None,Painkillers,Tulsi
+55,Other,Cold,None,Vegetarian,None,Painkillers,Tulsi
+65,Other,Hypertension,Ginger,Vegan,Diabetes,None,Turmeric
+66,Other,Cough,Neem,Vegan,Diabetes,Antibiotics,Garlic
+58,Other,None,Tulsi,Vegan,Diabetes,Antibiotics,Turmeric
+64,Male,Hypertension,None,Non-Vegetarian,None,None,Amla
+71,Female,Diabetes,None,Non-Vegetarian,None,Antibiotics,Amla
+46,Other,Fever,None,Vegetarian,None,None,Neem
+30,Other,Fever,None,Vegetarian,None,Antibiotics,Turmeric
+24,Female,Skin Issue,None,Non-Vegetarian,Hypertension,None,Aloe Vera
+75,Male,Fever,None,Vegan,Hypertension,None,Neem
+30,Other,Diabetes,None,Vegetarian,Hypertension,Antibiotics,Neem
+67,Other,None,None,Non-Vegetarian,Diabetes,None,Turmeric
+41,Male,Skin Issue,None,Non-Vegetarian,Hypertension,Painkillers,Aloe Vera
+60,Male,Skin Issue,Sandalwood,Vegan,Diabetes,None,Sandalwood
+30,Male,Hypertension,Amla,Vegan,None,None,Turmeric
+47,Female,Diabetes,Ginger,Non-Vegetarian,None,None,Amla
+29,Other,Diabetes,None,Vegetarian,None,None,Amla
+48,Female,None,None,Vegetarian,None,Painkillers,Tulsi
+40,Female,Diabetes,None,Vegetarian,None,Antibiotics,Amla
+53,Male,Diabetes,Turmeric,Vegetarian,Diabetes,Antibiotics,Neem
+36,Male,None,None,Vegan,Diabetes,None,Tulsi
+51,Female,Cough,None,Vegetarian,Diabetes,None,Garlic
+76,Female,Cough,Neem,Vegan,None,None,Tulsi
+62,Female,None,None,Vegetarian,Diabetes,Antibiotics,Amla
+34,Other,Fever,None,Vegetarian,Hypertension,None,Neem
+25,Female,None,None,Non-Vegetarian,Hypertension,Antibiotics,Turmeric
+21,Female,Cough,Neem,Vegetarian,Hypertension,None,Tulsi
+75,Female,Hypertension,Aloe Vera,Non-Vegetarian,Hypertension,None,Amla
+40,Other,Diabetes,None,Vegan,Diabetes,None,Amla
+54,Female,None,Turmeric,Vegetarian,None,Painkillers,Amla
+27,Other,Hypertension,None,Non-Vegetarian,Hypertension,None,Amla
+52,Other,None,None,Non-Vegetarian,None,Antibiotics,Amla
+31,Female,Diabetes,None,Vegetarian,None,Antibiotics,Neem
+27,Male,Fever,Neem,Non-Vegetarian,None,Painkillers,Neem
+40,Female,Hypertension,None,Non-Vegetarian,None,None,Amla
+58,Other,Diabetes,Sandalwood,Vegan,None,None,Amla
+35,Female,Hypertension,None,Vegan,Diabetes,Painkillers,Amla
+44,Female,None,None,Vegetarian,Diabetes,None,Neem
+20,Female,Diabetes,None,Vegetarian,Hypertension,None,Amla
+74,Male,Cold,None,Vegetarian,None,None,Ginger
+40,Male,Diabetes,None,Non-Vegetarian,Diabetes,None,Neem
+78,Other,Fever,None,Vegan,None,None,Turmeric
+42,Male,Fever,None,Non-Vegetarian,Hypertension,None,Neem
+58,Female,Cold,None,Non-Vegetarian,Diabetes,Painkillers,Tulsi
+29,Other,Cough,None,Non-Vegetarian,None,Antibiotics,Garlic
+72,Other,Cold,None,Vegetarian,None,Antibiotics,Tulsi
+25,Other,Skin Issue,None,Non-Vegetarian,None,None,Sandalwood
+69,Female,Diabetes,None,Vegetarian,None,None,Amla
+34,Male,Cough,None,Vegetarian,Diabetes,Painkillers,Tulsi
+37,Other,Fever,None,Vegetarian,Diabetes,Painkillers,Turmeric
+21,Male,Cold,None,Non-Vegetarian,Diabetes,None,Tulsi
+56,Female,Cold,Aloe Vera,Non-Vegetarian,Diabetes,None,Tulsi
+23,Male,Fever,None,Vegetarian,None,Antibiotics,Neem
+47,Female,Diabetes,None,Vegan,None,Antibiotics,Neem
+27,Male,Hypertension,None,Vegetarian,Diabetes,Antibiotics,Turmeric
+62,Other,Fever,None,Vegan,Hypertension,None,Neem
+37,Female,None,None,Vegetarian,Diabetes,None,Neem
+80,Male,Diabetes,Garlic,Non-Vegetarian,Diabetes,None,Amla
+65,Male,Diabetes,Turmeric,Vegan,None,Antibiotics,Amla
+22,Other,Skin Issue,None,Vegetarian,None,Antibiotics,Sandalwood
+29,Male,Diabetes,None,Vegetarian,None,None,Amla
+20,Female,None,Aloe Vera,Non-Vegetarian,None,None,Amla
+57,Female,Hypertension,None,Non-Vegetarian,Diabetes,Painkillers,Amla
+37,Female,Cold,None,Vegan,Hypertension,None,Tulsi
+59,Female,Cold,Turmeric,Vegetarian,None,Antibiotics,Tulsi
+19,Male,Diabetes,None,Vegan,Hypertension,None,Neem
+54,Female,Diabetes,None,Non-Vegetarian,None,None,Amla
+22,Male,Hypertension,None,Vegetarian,None,None,Amla
+64,Other,Hypertension,Turmeric,Vegetarian,Diabetes,Antibiotics,Turmeric
+68,Male,Skin Issue,None,Vegetarian,Diabetes,None,Aloe Vera
+22,Male,Fever,None,Non-Vegetarian,None,None,Neem
+21,Other,Cough,None,Vegan,None,None,Tulsi
+28,Female,None,None,Vegan,Diabetes,None,Tulsi
+47,Female,Cold,Sandalwood,Non-Vegetarian,Diabetes,None,Tulsi
+24,Other,Cold,Tulsi,Vegan,Hypertension,Painkillers,Tulsi
+63,Other,Skin Issue,None,Non-Vegetarian,None,None,Sandalwood
+66,Male,Fever,None,Vegan,None,Painkillers,Neem
+19,Female,Diabetes,None,Vegan,Diabetes,Antibiotics,Amla
